@@ -4,5 +4,3 @@ ipywidgets
 jupyter_contrib_nbextensions
 scipy
 scikit-learn
-time
-random
