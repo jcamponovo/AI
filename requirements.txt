@@ -3,6 +3,7 @@ matplotlib
 ipywidgets
 jupyter_contrib_nbextensions
 scipy
+scikit-learn
 sklearn
 time
 random
