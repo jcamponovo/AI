@@ -1,0 +1,8 @@
+numpy
+matplotlib
+ipywidgets
+jupyter_contrib_nbextensions
+scipy
+sklearn
+time
+random
