@@ -4,3 +4,6 @@ jupyter nbextension enable python-markdown/main
 
 # Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
 jupyter trust machinelearning.ipynb
+
+jupyter nbextension     enable --py --sys-prefix appmode
+jupyter serverextension enable --py --sys-prefix appmode
