@@ -1,9 +1,15 @@
 jupyter contrib nbextension install --user
 jupyter nbextension enable --py widgetsnbextension
 jupyter nbextension enable python-markdown/main
+jupyter nbextension enable Rubberband/main
+jupyter nbextension enable Exercise2/main
 
 # Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
 jupyter trust machinelearning.ipynb
+jupyter trust chrono.ipynb
+jupyter trust testunitaire_moyenne.ipynb
+jupyter trust testunitaire_resoudre.ipynb
+jupyter trust testunitaire_bonjour.ipynb
 
 jupyter nbextension     enable --py --sys-prefix appmode
 jupyter serverextension enable --py --sys-prefix appmode
