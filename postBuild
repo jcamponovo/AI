@@ -8,6 +8,7 @@ jupyter serverextension enable exercise2/main
 
 # Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
 jupyter trust machinelearning.ipynb
+jupyter trust machinelearning6.ipynb
 jupyter trust chrono.ipynb
 jupyter trust testunitaire_moyenne.ipynb
 jupyter trust testunitaire_resoudre.ipynb
