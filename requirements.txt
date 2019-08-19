@@ -12,3 +12,4 @@ ipython_unittest
 'prompt-toolkit<2.0'
 'ipywidgets>7.0'
 ipyevents
+image
