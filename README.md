@@ -13,11 +13,11 @@ machine de Turing 1: ajouter 1 à un binaire
 machine de Turing 2: ajouter deux binaires
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/AI/master?urlpath=apps/machineturing2.ipynb)  
   
-chronometrer des multiplications à n chiffres:
+chronometrer des multiplications à n chiffres 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/AI/master?urlpath=apps/chrono.ipynb)  
   
 codage du texte: table ASCII, ISO-8859 et UTF-8 et taille d'un fichier texte
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/AI/master?urlpath=apps/tableascii.ipynb)  
 
-tester et corriger des fonctions en python:  
+tester et corriger des fonctions en python 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/AI/master?urlpath=apps/test_moyenne.ipynb)
