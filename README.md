@@ -21,3 +21,6 @@ codage du texte: table ASCII, ISO-8859 et UTF-8 et taille d'un fichier texte
 
 tester et corriger des fonctions en python 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/AI/master?urlpath=apps/test_moyenne.ipynb)
+
+Modélisation de données par IA (données publiques des prix des logements à Boston)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/AI/master?urlpath=apps/boston2.ipynb)
