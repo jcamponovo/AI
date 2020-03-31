@@ -24,3 +24,6 @@ tester et corriger des fonctions en python
 
 Modélisation de données par IA (données publiques des prix des logements à Boston)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/AI/master?urlpath=apps/boston2.ipynb)
+
+Application sur l'inférence Bayésienne (test médical)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/AI/master?urlpath=apps/bayes.ipynb)
