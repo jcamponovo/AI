@@ -7,7 +7,7 @@ appmode
 pytest
 ipytest
 ipython_unittest
-notebook==6.4.1
+notebook==6.4.10
 ipython<7.0
 prompt-toolkit<2.0
 ipywidgets>7.0
